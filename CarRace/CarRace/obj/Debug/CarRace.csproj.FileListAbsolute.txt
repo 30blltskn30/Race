@@ -1,0 +1,11 @@
+C:\Users\MONSTER\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\MONSTER\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\MONSTER\source\repos\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.pdb
+C:\Users\MONSTER\source\repos\CarRace\CarRace\obj\Debug\CarRace.Form2.resources
